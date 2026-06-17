@@ -8,4 +8,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0197-rising-temperature](https://github.com/PavithraDevi146/problems/tree/main/0197-rising-temperature/) | Easy |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/PavithraDevi146/problems/tree/main/MySQL/Medium/0570-managers-with-at-least-5-direct-reports/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0009-palindrome-number](https://github.com/PavithraDevi146/problems/tree/main/Python/Easy/0009-palindrome-number/) | Easy |
 <!---LeetCode Topics End-->
