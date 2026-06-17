@@ -12,4 +12,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/PavithraDevi146/problems/tree/main/Python/Easy/0009-palindrome-number/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/PavithraDevi146/problems/tree/main/Java/Easy/0088-merge-sorted-array/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/PavithraDevi146/problems/tree/main/Java/Easy/0088-merge-sorted-array/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/PavithraDevi146/problems/tree/main/Java/Easy/0088-merge-sorted-array/) | Easy |
 <!---LeetCode Topics End-->
