@@ -15,15 +15,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/PavithraDevi146/problems/tree/main/Python/Easy/0009-palindrome-number/) | Easy |
+| [0189-rotate-array](https://github.com/PavithraDevi146/problems/tree/master/0189-rotate-array) |
 ## Array
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/PavithraDevi146/problems/tree/main/Java/Easy/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/PavithraDevi146/problems/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/PavithraDevi146/problems/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/PavithraDevi146/problems/tree/main/Java/Easy/0088-merge-sorted-array/) | Easy |
+| [0189-rotate-array](https://github.com/PavithraDevi146/problems/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
 | ------- |
