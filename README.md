@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/PavithraDevi146/problems/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/PavithraDevi146/problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/PavithraDevi146/problems/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/PavithraDevi146/problems/tree/main/Java/Easy/0088-merge-sorted-array/) | Easy |
@@ -33,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/PavithraDevi146/problems/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/PavithraDevi146/problems/tree/main/Java/Easy/0088-merge-sorted-array/) | Easy |
 | [0189-rotate-array](https://github.com/PavithraDevi146/problems/tree/master/0189-rotate-array) |
 ## Sorting
@@ -56,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/PavithraDevi146/problems/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/PavithraDevi146/problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/PavithraDevi146/problems/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PavithraDevi146/problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -76,4 +79,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/PavithraDevi146/problems/tree/master/0238-product-of-array-except-self) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/PavithraDevi146/problems/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/PavithraDevi146/problems/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
