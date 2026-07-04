@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/PavithraDevi146/problems/tree/main/Python/Easy/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/PavithraDevi146/problems/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/PavithraDevi146/problems/tree/master/0189-rotate-array) |
+| [0728-self-dividing-numbers](https://github.com/PavithraDevi146/problems/tree/master/0728-self-dividing-numbers) |
 ## Array
 |  |
 | ------- |
