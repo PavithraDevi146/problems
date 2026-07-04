@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/PavithraDevi146/problems/tree/main/Python/Easy/0009-palindrome-number/) | Easy |
+| [0013-roman-to-integer](https://github.com/PavithraDevi146/problems/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/PavithraDevi146/problems/tree/master/0189-rotate-array) |
 ## Array
 |  |
@@ -46,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/PavithraDevi146/problems/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/PavithraDevi146/problems/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
@@ -87,4 +89,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/PavithraDevi146/problems/tree/master/0042-trapping-rain-water) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/PavithraDevi146/problems/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
