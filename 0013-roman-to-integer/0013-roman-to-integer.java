@@ -1,40 +1,40 @@
 class Solution {
     public int romanToInt(String s) {
-        int total=0;
-        
-        int prev=0;
-        for(int i=s.length()-1;i>=0;i--){
-            int current=0;
+        int n=s.length();
+        int prev=0,sum=0;
+        for(int i=n-1;i>=0;i--){
+
+            int curr=0;
             switch(s.charAt(i)){
                 case 'I':
-                    current=1;
+                    curr+=1;
                     break;
                 case 'V':
-                    current=5;
+                    curr+=5;
                     break;
                 case 'X':
-                    current=10;
+                    curr+=10;
                     break;
                 case 'L':
-                    current=50;
+                    curr+=50;
                     break;
                 case 'C':
-                    current=100;
+                    curr+=100;
                     break;
                 case 'D':
-                    current=500;
+                    curr+=500;
                     break;
                 case 'M':
-                    current=1000;
+                    curr+=1000;
                     break;
             }
-            if(current<prev){
-                total-=current;
+            if(curr<prev){
+                sum-=curr;
             }else{
-                total+=current;
+                sum+=curr;
             }
-            prev=current;
+            prev=curr;
         }
-        return total;
+        return sum;
     }
 }
