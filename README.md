@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/PavithraDevi146/problems/tree/master/0189-rotate-array) |
 | [0728-self-dividing-numbers](https://github.com/PavithraDevi146/problems/tree/master/0728-self-dividing-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PavithraDevi146/problems/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/PavithraDevi146/problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/PavithraDevi146/problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Array
 |  |
@@ -50,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/PavithraDevi146/problems/tree/main/Java/Easy/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/PavithraDevi146/problems/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/PavithraDevi146/problems/tree/master/0274-h-index) |
+| [3536-maximum-product-of-two-digits](https://github.com/PavithraDevi146/problems/tree/master/3536-maximum-product-of-two-digits) |
 ## Hash Table
 |  |
 | ------- |
