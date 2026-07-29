@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/PavithraDevi146/problems/tree/main/Java/Easy/0088-merge-sorted-array/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/PavithraDevi146/problems/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/PavithraDevi146/problems/tree/master/0189-rotate-array) |
+| [1332-remove-palindromic-subsequences](https://github.com/PavithraDevi146/problems/tree/master/1332-remove-palindromic-subsequences) |
 ## Sorting
 |  |
 | ------- |
@@ -107,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/PavithraDevi146/problems/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/PavithraDevi146/problems/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/PavithraDevi146/problems/tree/master/0151-reverse-words-in-a-string) |
+| [1332-remove-palindromic-subsequences](https://github.com/PavithraDevi146/problems/tree/master/1332-remove-palindromic-subsequences) |
 ## Trie
 |  |
 | ------- |
