@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/PavithraDevi146/problems/tree/master/0189-rotate-array) |
 | [0728-self-dividing-numbers](https://github.com/PavithraDevi146/problems/tree/master/0728-self-dividing-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PavithraDevi146/problems/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PavithraDevi146/problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/PavithraDevi146/problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/PavithraDevi146/problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Array
@@ -85,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/PavithraDevi146/problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/PavithraDevi146/problems/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/PavithraDevi146/problems/tree/master/0135-candy) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PavithraDevi146/problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Counting Sort
 |  |
 | ------- |
@@ -109,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0058-length-of-last-word](https://github.com/PavithraDevi146/problems/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/PavithraDevi146/problems/tree/master/0151-reverse-words-in-a-string) |
 | [1332-remove-palindromic-subsequences](https://github.com/PavithraDevi146/problems/tree/master/1332-remove-palindromic-subsequences) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PavithraDevi146/problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Trie
 |  |
 | ------- |
