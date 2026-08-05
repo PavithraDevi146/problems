@@ -1,7 +1,7 @@
 class Solution {
     public List<Integer> findMissingElements(int[] nums) {
         List<Integer> ans = new ArrayList<>();
-        ArrayList<Integer> list= new ArrayList<>();
+        HashSet<Integer> set= new HashSet<>();
         int max = nums[0];
         int min = nums[0];
         
@@ -12,10 +12,10 @@ class Solution {
             if(num<min){
                 min=num;
             }
-            list.add(num);
+            set.add(num);
         }
         for(int i=min;i<max;i++){
-            if(!list.contains(i)){
+            if(!set.contains(i)){
                 ans.add(i);
             }
         }
