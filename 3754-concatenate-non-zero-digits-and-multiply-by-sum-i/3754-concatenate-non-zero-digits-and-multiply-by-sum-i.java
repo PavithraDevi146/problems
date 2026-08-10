@@ -1,17 +1,15 @@
 class Solution {
     public long sumAndMultiply(int n) {
+        String str = String.valueOf(n);
+        int sum = 0;
         long x=0;
-        long place = 1;
-        int sum =0 ;
-        while(n>0){
-            int d= n%10;
-            if(d!=0){
-                x = d*place + x;
-                place*=10;
+        for(int ch : str.toCharArray()){
+            if(ch !='0'){
+                int d=ch - '0';
+                x = x*10 + d; 
                 sum+=d;
             }
-            n/=10;
         }
-        return x*sum;
+        return x* sum;
     }
 }
