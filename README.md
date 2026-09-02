@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/PavithraDevi146/problems/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/PavithraDevi146/problems/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/PavithraDevi146/problems/tree/master/0274-h-index) |
+| [1051-height-checker](https://github.com/PavithraDevi146/problems/tree/master/1051-height-checker) |
 | [1331-rank-transform-of-an-array](https://github.com/PavithraDevi146/problems/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PavithraDevi146/problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/PavithraDevi146/problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -64,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/PavithraDevi146/problems/tree/main/Java/Easy/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/PavithraDevi146/problems/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/PavithraDevi146/problems/tree/master/0274-h-index) |
+| [1051-height-checker](https://github.com/PavithraDevi146/problems/tree/master/1051-height-checker) |
 | [1331-rank-transform-of-an-array](https://github.com/PavithraDevi146/problems/tree/master/1331-rank-transform-of-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/PavithraDevi146/problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/PavithraDevi146/problems/tree/master/3536-maximum-product-of-two-digits) |
@@ -105,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0274-h-index](https://github.com/PavithraDevi146/problems/tree/master/0274-h-index) |
+| [1051-height-checker](https://github.com/PavithraDevi146/problems/tree/master/1051-height-checker) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -143,4 +146,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/PavithraDevi146/problems/tree/master/0169-majority-element) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/PavithraDevi146/problems/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
