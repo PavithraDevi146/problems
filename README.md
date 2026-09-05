@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/PavithraDevi146/problems/tree/main/MySQL/Medium/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [0607-sales-person](https://github.com/PavithraDevi146/problems/tree/main/MySQL/Easy/0607-sales-person/) | Easy |
 | [1148-article-views-i](https://github.com/PavithraDevi146/problems/tree/master/1148-article-views-i) |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/PavithraDevi146/problems/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/PavithraDevi146/problems/tree/master/1683-invalid-tweets) |
 ## Math
 |  |
